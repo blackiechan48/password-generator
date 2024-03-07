@@ -25,10 +25,10 @@ This is a password generator that will generate a random password based on user-
 ![screenshot](assets/images/Screenshot2.png)
 ![screenshot](assets/images/Screenshot1.png)
 
-## Live demo
+## Live demo
 [live video](assets/images/Screen%20Recording%20.mov)
 
-## License
+## License
 [MIT]
 
 ## Links
