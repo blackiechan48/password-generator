@@ -22,15 +22,17 @@ This is a password generator that will generate a random password based on user-
 - [x] The password is then displayed in the textbox.
 
 ## Screenshots
-![screenshot](assets/images/Screenshot2.png)
-![screenshot](assets/images/Screenshot1.png)
 
-## Live demo
-[live video](assets/images/Screen%20Recording%20.mov)
+![Blank](./Assets/images/Screenshot1.png)
+
+![Generated](./Assets/images/Screenshot2.png)
+
 
 ## License
+
 [MIT]
 
 ## Links
 **Github repo** https://github.com/blackiechan48/password-generator
+
 **Github pages** https://blackiechan48.github.io/password-generator
